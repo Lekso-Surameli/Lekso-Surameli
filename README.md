@@ -27,5 +27,5 @@
 
 <br />
 <br />
-<img align="center" alt="Lekso-Surameli GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lekso-Surameli&show_icons=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danBamikiya&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
+<img align="left" alt="Lekso-Surameli GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lekso-Surameli&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekso-Surameli&theme=default&show_icons=true" />
