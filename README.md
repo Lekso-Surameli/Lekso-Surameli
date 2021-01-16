@@ -27,3 +27,4 @@
 
 <br />
 <br />
+<img align="left" alt="Lekso-Surameli GitHub Stats" src="https://github-readme-stats.Lekso-Surameli.vercel.app/api?username=Lekso-SuramelicodeSTACKr&show_icons=true&hide_border=true" />
