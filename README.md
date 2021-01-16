@@ -1,7 +1,7 @@
 ### Hi there, I'm Lekso 👋
 
-## I'm a Student and Web Developer
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## I'm a Student and Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 
 - 🌱 I’m currently learning React.js and Node.js 
 - 🔭 I’m currently working on Github Profile finder 
